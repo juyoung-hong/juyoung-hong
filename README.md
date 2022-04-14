@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=red"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Latex-black?style=flat-square&logo=Latex&logoColor=purple"/> <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux&logoColor=blue"/> <img src="https://img.shields.io/badge/SAS-black?style=flat-square&logo=SAS&logoColor=white"/> <img src="https://img.shields.io/badge/SPSS-black?style=flat-square&logo=SPSS&logoColor=white"/>
 
 - English skill
-  - TOEIC : 745
-  - OPIC : 
+  - TOEIC : 
+  - OPIC : IH
 
 <br>
 
